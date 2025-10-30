@@ -2,7 +2,9 @@
 
 # Proyecto de red Cisco Packet Tracer  
 **Curso:** The Bits and Bytes of Computer Networking (Google)  
-**Autor:** Florencia Horita 
+
+**Autor:** Florencia Horita
+
 **Fecha:** 30/10/2025  
 
 ---
@@ -22,8 +24,10 @@ Se trabajó con asignación de IPs, descripción de interfaces, hostname y verif
 ---
 
 ## Topología  
-[PC-User1] ---
+[PC-User1] ---\
+
 [PC-User2] ----> [Switch 2960]
+
 [PC-User3] ---/
 
 
