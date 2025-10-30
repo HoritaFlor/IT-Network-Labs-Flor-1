@@ -2,7 +2,7 @@
 
 # Proyecto de red Cisco Packet Tracer  
 **Curso:** The Bits and Bytes of Computer Networking (Google)  
-**Autor:** Isa  
+**Autor:** Florencia Horita 
 **Fecha:** 30/10/2025  
 
 ---
