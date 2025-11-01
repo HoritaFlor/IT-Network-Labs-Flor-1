@@ -66,5 +66,5 @@ Resultados
 
 ## Archivos incluidos  
 
-- `LAB1_LAN_BASICA_ISA.pkt` → Archivo del laboratorio.  
-- `LAB1_LAN_BASICA_ISA_EN.pdf` → Documentación técnica (bilingüe).  
+- `LAB1_LAN_BASICA_FLOR.pkt` → Archivo del laboratorio.  
+- `LAB1_LAN_BASICA_FLOR_EN.pdf` → Documentación técnica (bilingüe).  
