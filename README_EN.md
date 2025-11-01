@@ -67,8 +67,8 @@ copy running-config startup-config
 ---
 
 ## Included Files  
-- `LAB1_LAN_BASICA_ISA.pkt` → Packet Tracer project file.  
-- `LAB1_LAN_BASICA_ISA_EN.pdf` → Technical documentation (bilingual).  
+- `LAB1_LAN_BASICA_FLOR.pkt` → Packet Tracer project file.  
+- `LAB1_LAN_BASICA_FLOR_EN.pdf` → Technical documentation (bilingual).  
 
 
 
