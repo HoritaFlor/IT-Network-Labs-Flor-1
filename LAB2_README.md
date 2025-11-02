@@ -1,6 +1,6 @@
 # Proyecto de red Cisco Packet Tracer
 
-#LAB2 – Interconexión de LANs (Cisco Packet Tracer)
+# LAB2 – Interconexión de LANs
 
 **Curso:** The Bits and Bytes of Computer Networking (Google)  
 
@@ -19,10 +19,13 @@ Se configuraron las interfaces del router, los switches y las PCs, comprobando c
 
 ## Objetivos
 
-• Comprender cómo un router permite la comunicación entre subredes IP.
-• Configurar las interfaces del router Cisco 2911.
-• Asignar IPs, máscaras y gateways a las PCs de ambas LANs.
-• Verificar conectividad mediante pruebas de ping.
+- Comprender cómo un router permite la comunicación entre subredes IP.
+
+- Configurar las interfaces del router Cisco 2911.
+
+- Asignar IPs, máscaras y gateways a las PCs de ambas LANs.
+
+- Verificar conectividad mediante pruebas de ping.
 
 ---
 
@@ -34,10 +37,13 @@ LAN1 --- Switch 2960 --- Router 2911 --- Switch 2960 --- LAN2
 
 ## Configuraciones principales
 
-• LAN1 → Red: 192.168.1.0/24
-• LAN2 → Red: 192.168.2.0/24
-• Router Cisco 2911 → Interfaces Gig0/0 y Gig0/2 activas
-• Switches Catalyst 2960 → Conectan las PCs de cada LAN
+- LAN1 → Red: 192.168.1.0/24
+
+- LAN2 → Red: 192.168.2.0/24
+
+- Router Cisco 2911 → Interfaces Gig0/0 y Gig0/2 activas
+
+- Switches Catalyst 2960 → Conectan las PCs de cada LAN
 
 ---
 
@@ -56,17 +62,19 @@ end
 show ip interface brief
 ```
 
-##Resultados
+## Resultados
 
 • Comunicación exitosa entre ambas redes mediante ping.
+
 • Tabla de interfaces del router verificada.
+
 • Proyecto guardado en formato .pkt y documentación en .pdf.
 
 
-##Archivos incluidos
+## Archivos incluidos
 
-• LAB2_INTERCONEXION_DE_LANS_FLOR.pkt → Proyecto de Cisco Packet Tracer
+LAB2_INTERCONEXION_DE_LANS_FLOR.pkt → Proyecto de Cisco Packet Tracer
 
-• LAB2_INTERCONEXION_DE_LANS_FLOR.pdf → Documentación técnica del laboratorio
+LAB2_INTERCONEXION_DE_LANS_FLOR.pdf → Documentación técnica del laboratorio
 
 
