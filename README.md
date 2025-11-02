@@ -90,6 +90,6 @@ I’m documenting my progress and sharing what I learn through practical exercis
 
 LinkedIn : https://www.linkedin.com/in/florenciahorita/
 
-Email ; florenciahorita@gmail.com
+Email : florenciahorita@gmail.com
 
  
