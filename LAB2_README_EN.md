@@ -74,3 +74,11 @@ show ip interface brief
 LAB2_INTERCONEXION_DE_LANS_FLOR.pkt → Cisco Packet Tracer project file
 
 LAB2_INTERCONEXION_DE_LANS_FLOR.pdf → Technical documentation of the lab
+
+---
+
+## Observation
+
+In this lab, a crossover cable was used to connect the switches to the router.
+
+Modern Cisco devices (such as the 2960 and 2911) include Auto-MDI/MDIX, which allows both crossover and straight-through cables to work correctly.
