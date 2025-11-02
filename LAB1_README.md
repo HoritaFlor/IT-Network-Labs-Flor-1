@@ -58,11 +58,14 @@ show running-config
 show mac address-table
 copy running-config startup-config
 ```
+---
 
-Resultados
+## Resultados
 - Comunicación exitosa entre todas las PCs mediante ping.
 - Tabla MAC del switch correctamente generada.
 - Proyecto verificado y guardado en Packet Tracer (.pkt) y PDF (.pdf).
+
+---
 
 ## Archivos incluidos  
 
