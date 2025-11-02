@@ -61,6 +61,7 @@ no shutdown
 end
 show ip interface brief
 ```
+---
 
 ## Resultados
 
@@ -70,6 +71,7 @@ show ip interface brief
 
 • Proyecto guardado en formato .pkt y documentación en .pdf.
 
+---
 
 ## Archivos incluidos
 
@@ -77,4 +79,11 @@ LAB2_INTERCONEXION_DE_LANS_FLOR.pkt → Proyecto de Cisco Packet Tracer
 
 LAB2_INTERCONEXION_DE_LANS_FLOR.pdf → Documentación técnica del laboratorio
 
+---
+
+## Observación
+
+En este laboratorio se utilizó un cable cruzado (crossover) para conectar los switches con el router.
+
+Los equipos Cisco modernos (como el 2960 y el 2911) poseen Auto-MDI/MDIX, lo que permite que tanto cables cruzados como directos funcionen correctamente.
 
